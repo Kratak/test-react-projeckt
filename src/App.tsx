@@ -18,6 +18,7 @@ function App() {
             className="App-link"
             href="https://github.com/Kratak/test-react-projeckt"
             target="_blank"
+            rel="noopener noreferrer"
         >
           test-react-project
         </a>
